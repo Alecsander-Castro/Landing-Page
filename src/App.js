@@ -53,11 +53,11 @@ function App() {
 
           <div className='social-media'>
 
-            <a href="#"><img className='footerimg2' src="instagram.png" /></a> 
-            <a href="#"><img className='footerimg2' src="linkedin.png" /></a> 
-            <a href="#"><img className='footerimg2' src="facebook.png" /></a>
-            <a href="#"><img className='footerimg2' src="twitter.png" /></a>
-            <a href="#"><img className='footerimg2' src="whatsapp.png" /></a>
+            <a href="#"><img className='footerimg2' src="instagram.png"/></a> 
+            <a href="#"><img className='footerimg2' src="linkedin.png"/></a> 
+            <a href="#"><img className='footerimg2' src="facebook.png"/></a>
+            <a href="#"><img className='footerimg2' src="twitter.png"/></a>
+            <a href="#"><img className='footerimg2' src="whatsapp.png"/></a>
 
           </div>
         </div>
