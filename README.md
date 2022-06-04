@@ -2,6 +2,7 @@
 
 # Resumo do projeto
 Landing page feita com React
+<br/>
 Link: https://alecsander-castro.github.io/Landing-Page/
 
 # <h3 align="left"> :coffee: Tecnologias utilizadas: </h3>
