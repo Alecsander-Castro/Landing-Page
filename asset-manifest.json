@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Alecsander-Castro/Landing-Page/static/css/main.bbab2f3d.css",
+    "main.js": "/Alecsander-Castro/Landing-Page/static/js/main.c38ceb8b.js",
+    "static/js/787.59115246.chunk.js": "/Alecsander-Castro/Landing-Page/static/js/787.59115246.chunk.js",
+    "static/media/pride.svg": "/Alecsander-Castro/Landing-Page/static/media/pride.a32d21504d131fb56b30d3dbbf56faeb.svg",
+    "static/media/love.svg": "/Alecsander-Castro/Landing-Page/static/media/love.f3abbc8d9d719a43e9e35d498566b026.svg",
+    "static/media/happy.svg": "/Alecsander-Castro/Landing-Page/static/media/happy.18d3af5469fa9ab0bee1e14aa9ea4b72.svg",
+    "static/media/cadaster.svg": "/Alecsander-Castro/Landing-Page/static/media/cadaster.977bf389a4d4dcb865aee84f1ec340ef.svg",
+    "index.html": "/Alecsander-Castro/Landing-Page/index.html",
+    "main.bbab2f3d.css.map": "/Alecsander-Castro/Landing-Page/static/css/main.bbab2f3d.css.map",
+    "main.c38ceb8b.js.map": "/Alecsander-Castro/Landing-Page/static/js/main.c38ceb8b.js.map",
+    "787.59115246.chunk.js.map": "/Alecsander-Castro/Landing-Page/static/js/787.59115246.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbab2f3d.css",
+    "static/js/main.c38ceb8b.js"
+  ]
+}
