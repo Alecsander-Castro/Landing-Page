@@ -1,7 +1,7 @@
 <h1 align="center"> Landing Page - React</h1>
 
 # Resumo do projeto
-Landing page feita com React
+Landing Page feita com React
 <br/>
 Link: https://alecsander-castro.github.io/Landing-Page/
 
